@@ -20,7 +20,6 @@ The project combines **real estate domain knowledge, generative AI, data structu
 * 🤝 Extract buyer agent compensation (BAC)
 * 💵 Identify seller concessions
 * 📝 Summarize special stipulations
-* 📎 Detect VB Addendum references
 * ⚠️ Flag potential contradictions
 * 📊 Present results in a standardized deal summary
 
