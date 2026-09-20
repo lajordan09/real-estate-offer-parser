@@ -1,4 +1,8 @@
+# 🏡 Real Estate Offer Parser
+
 An AI-powered real estate workflow built with **Google Gemini Opal** to extract key terms from residential purchase agreements and convert them into a standardized deal summary.
+
+![Real Estate Offer Parser](screenshots/deal-summary.png)
 
 ## Overview
 
@@ -35,6 +39,20 @@ Validation / Contradiction Detection
         ↓
 Standardized Deal Summary
 ```
+## 📸 Project Preview
+
+### Application
+
+![Offer Parser Application](screenshots/deal-summary.png)
+
+### Opal Workflow
+
+![Opal Workflow](screenshots/parsing-workflow.png)
+
+### Landing Page
+
+![Offer Parser Landing Page](screenshots/opal-home.png)
+
 
 ## Limitations
 
