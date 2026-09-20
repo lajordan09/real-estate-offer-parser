@@ -88,7 +88,7 @@ Real Estate Agent | Data Analytics Graduate Student | AI & Automation Enthusiast
 I’m interested in the intersection of **real estate, data analytics, AI, and workflow automation**, with a focus on using technology to solve practical business problems.
 
 - GitHub: [@lajordan09](https://github.com/lajordan09)
-- LinkedIn:[LaQuita Jordan](https://www.linkedin.com/in/laquitajordan-memphis/)
+- LinkedIn: [LaQuita Jordan](https://www.linkedin.com/in/laquitajordan-memphis/)
 
 ---
 
